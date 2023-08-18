@@ -1,0 +1,12 @@
+../Libraries/Ethernet/socket.c:105:8:socket	17
+../Libraries/Ethernet/socket.c:198:8:close	8
+../Libraries/Ethernet/socket.c:241:8:listen	6
+../Libraries/Ethernet/socket.c:257:8:connect	12
+../Libraries/Ethernet/socket.c:297:8:disconnect	7
+../Libraries/Ethernet/socket.c:317:9:send	16
+../Libraries/Ethernet/socket.c:385:9:recv	24
+../Libraries/Ethernet/socket.c:490:9:sendto	22
+../Libraries/Ethernet/socket.c:594:9:recvfrom	29
+../Libraries/Ethernet/socket.c:776:9:ctlsocket	14
+../Libraries/Ethernet/socket.c:822:9:setsockopt	14
+../Libraries/Ethernet/socket.c:875:9:getsockopt	16

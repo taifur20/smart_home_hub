@@ -1,0 +1,17 @@
+../Core/Src/main.c:103:1:__io_putchar	16	static
+../Core/Src/main.c:112:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:139:5:main	112	static
+../Core/Src/main.c:250:6:SystemClock_Config	88	static
+../Core/Src/main.c:307:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:359:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:399:13:MX_TIM6_Init	24	static
+../Core/Src/main.c:437:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:472:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:505:13:MX_DMA_Init	16	static
+../Core/Src/main.c:519:13:MX_FMC_Init	40	static
+../Core/Src/main.c:577:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:641:6:send_to_cloud	432	static
+../Core/Src/main.c:689:6:http_server_demo	24	static
+../Core/Src/main.c:713:6:write_image_sd	8408	static
+../Core/Src/main.c:770:6:test_sd_card	8424	static
+../Core/Src/main.c:834:6:Error_Handler	4	static,ignoring_inline_asm

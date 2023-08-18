@@ -1,0 +1,3 @@
+../Libraries/MQTT/MQTTPacket/src/MQTTConnectServer.c:30:5:MQTTPacket_checkVersion	24	static
+../Libraries/MQTT/MQTTPacket/src/MQTTConnectServer.c:51:5:MQTTDeserialize_connect	64	static
+../Libraries/MQTT/MQTTPacket/src/MQTTConnectServer.c:119:5:MQTTSerialize_connack	40	static

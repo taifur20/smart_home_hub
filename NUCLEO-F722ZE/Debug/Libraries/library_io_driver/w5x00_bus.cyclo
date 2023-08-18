@@ -1,0 +1,7 @@
+../Libraries/library_io_driver/w5x00_bus.c:42:20:wizchip_select	1
+../Libraries/library_io_driver/w5x00_bus.c:47:20:wizchip_deselect	1
+../Libraries/library_io_driver/w5x00_bus.c:52:24:wizchip_read	1
+../Libraries/library_io_driver/w5x00_bus.c:57:20:wizchip_write	1
+../Libraries/library_io_driver/w5x00_bus.c:62:6:wizchip_initialize	2
+../Libraries/library_io_driver/w5x00_bus.c:105:6:wizchip_reset	1
+../Libraries/library_io_driver/w5x00_bus.c:114:6:wizchip_check	1

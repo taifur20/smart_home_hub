@@ -1,0 +1,11 @@
+../Libraries/Ethernet/w5300.c:57:10:WIZCHIP_WRITE	1
+../Libraries/Ethernet/w5300.c:91:10:WIZCHIP_READ	1
+../Libraries/Ethernet/w5300.c:129:6:setTMSR	2
+../Libraries/Ethernet/w5300.c:138:9:getTMSR	2
+../Libraries/Ethernet/w5300.c:145:6:setRMSR	2
+../Libraries/Ethernet/w5300.c:154:9:getRMSR	2
+../Libraries/Ethernet/w5300.c:161:10:getSn_TX_FSR	2
+../Libraries/Ethernet/w5300.c:175:10:getSn_RX_RSR	2
+../Libraries/Ethernet/w5300.c:190:6:wiz_send_data	3
+../Libraries/Ethernet/w5300.c:199:6:wiz_recv_data	4
+../Libraries/Ethernet/w5300.c:218:6:wiz_recv_ignore	2

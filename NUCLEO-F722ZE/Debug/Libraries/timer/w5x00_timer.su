@@ -1,0 +1,9 @@
+../Libraries/timer/w5x00_timer.c:48:6:HAL_SYSTICK_Callback	8	static
+../Libraries/timer/w5x00_timer.c:67:6:wizchip_1msec_timer_initialize	16	static
+../Libraries/timer/w5x00_timer.c:72:6:wizchip_1msec_timer_callback	8	static
+../Libraries/timer/w5x00_timer.c:80:6:wizchip_1sec_timer_initialize	16	static
+../Libraries/timer/w5x00_timer.c:85:6:wizchip_1sec_timer_callback	8	static
+../Libraries/timer/w5x00_timer.c:93:6:wizchip_delay_msec	16	static
+../Libraries/timer/w5x00_timer.c:98:6:wizchip_delay_sec	16	static
+../Libraries/timer/w5x00_timer.c:103:10:wizchip_get_msec_tick	4	static
+../Libraries/timer/w5x00_timer.c:108:10:wizchip_get_sec_tick	4	static

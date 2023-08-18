@@ -1,0 +1,2 @@
+../Libraries/library_io_driver/w5x00_network.c:35:6:wizchip_network_initialize	16	static
+../Libraries/library_io_driver/w5x00_network.c:44:6:wizchip_network_information	48	static
